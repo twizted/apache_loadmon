@@ -10,5 +10,6 @@ shortening the interval of checks when it detects that the system load has
 passed the preset threshold.
 
 # Requirements
-Apache with mod_status enabled
-lynx / links
+- Apache with mod_status enabled
+- lynx / links
+
